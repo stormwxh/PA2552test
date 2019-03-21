@@ -1,5 +1,5 @@
 package calc;
-
+///test automatic test
 public class CalculatorMain {
 	public CalculatorMain(){
 		
