@@ -33,7 +33,7 @@ public class CalculatorMain {
 	//6666666666666666666
 	
 =======
->>>>>>> branch 'master' of https://github.com/stormwxh/PA2552test.git
+
 
 	
 }
