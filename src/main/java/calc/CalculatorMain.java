@@ -20,6 +20,7 @@ public class CalculatorMain {
 		if(b==0) {
 			return 0;
 			//zmkkkkkkk
+			//wljsb
 		}
 		return a/b;
 		
