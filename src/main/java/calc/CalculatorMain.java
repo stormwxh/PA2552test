@@ -28,8 +28,6 @@ public class CalculatorMain {
 		// TODO Auto-generated method stub
 		return null;
 	}*/
-	//PPPPPPPPPPPPPPPP
-	//6666666666666666666
 
 	
 }
