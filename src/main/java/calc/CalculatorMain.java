@@ -1,5 +1,5 @@
 package calc;
-///test automatic test-1
+///this is the fianl tesst
 public class CalculatorMain {
 	public CalculatorMain(){
 		
@@ -28,9 +28,12 @@ public class CalculatorMain {
 		// TODO Auto-generated method stub
 		return null;
 	}*/
+<<<<<<< HEAD
 	//PPPPPPPPPPPPPPPP
 	//6666666666666666666
-	//dfdsjkfhdsfhsdfdsd
+	
+=======
+>>>>>>> branch 'master' of https://github.com/stormwxh/PA2552test.git
 
 	
 }
