@@ -38,15 +38,13 @@
       <file leaf-file-name="CaculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/calc/CaculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+            <state relative-caret-position="435">
+              <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
               <folding>
                 <element signature="e#213#214#0" expanded="true" />
                 <element signature="e#247#248#0" expanded="true" />
                 <element signature="e#419#420#0" expanded="true" />
                 <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#741#742#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -283,7 +281,7 @@
       <workItem from="1553180024795" duration="36000" />
       <workItem from="1553184731331" duration="579000" />
       <workItem from="1553185879770" duration="2330000" />
-      <workItem from="1553260906374" duration="2390000" />
+      <workItem from="1553260906374" duration="2452000" />
     </task>
     <task id="LOCAL-00001" summary="sb">
       <created>1553184770823</created>
@@ -310,7 +308,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8236000" />
+    <option name="totallyTimeSpent" value="8298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -377,8 +375,6 @@
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
             <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -408,8 +404,6 @@
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
             <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -439,8 +433,6 @@
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
             <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -473,15 +465,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/calc/CaculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        <state relative-caret-position="435">
+          <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding>
             <element signature="e#213#214#0" expanded="true" />
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
             <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#741#742#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
           </folding>
         </state>
       </provider>
