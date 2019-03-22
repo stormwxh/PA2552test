@@ -40,6 +40,10 @@ public class CaculatorTest {
 	@Test
 	public void testaddByNB() {
 		assertEquals(5, calc.add(5,0));
-		SDIASDJIASDJ
 	}
+	@Test
+	public void testdivByNB() {
+		assertEquals(5, calc.div(5,0));
+	}
+
 }
