@@ -37,4 +37,8 @@ public class CaculatorTest {
 	public void testPresedence() {
 		assertEquals(30, calc.add(calc.mul(5, 5), calc.div(10, 2)));
 	}
+	@Test
+	public void testaddByNB() {
+		assertEquals(5, calc.add(5,0));
+	}
 }
