@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/calc/CaculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="427">
-              <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+              <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
               <folding>
                 <element signature="e#213#214#0" expanded="true" />
                 <element signature="e#247#248#0" expanded="true" />
@@ -283,7 +283,7 @@
       <workItem from="1553180024795" duration="36000" />
       <workItem from="1553184731331" duration="579000" />
       <workItem from="1553185879770" duration="2330000" />
-      <workItem from="1553260906374" duration="2857000" />
+      <workItem from="1553260906374" duration="2986000" />
     </task>
     <task id="LOCAL-00001" summary="sb">
       <created>1553184770823</created>
@@ -310,7 +310,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8703000" />
+    <option name="totallyTimeSpent" value="8832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -474,7 +474,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/calc/CaculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
-          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <caret line="43" column="7" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
           <folding>
             <element signature="e#213#214#0" expanded="true" />
             <element signature="e#247#248#0" expanded="true" />
