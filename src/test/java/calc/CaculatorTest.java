@@ -41,9 +41,5 @@ public class CaculatorTest {
 	public void testaddByNB() {
 		assertEquals(5, calc.add(5,0));
 	}
-	@Test
-	public void testsubByNB() {
-		assertEquals(5, calc.sub(5,0));
-	}
-
+	asdsadas
 }
