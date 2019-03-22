@@ -41,5 +41,6 @@ public class CaculatorTest {
 	public void testaddByNB() {
 		assertEquals(5, calc.add(5,0));
 		SAJDIASJDSIA
+				ASDASDAS
 	}
 }
