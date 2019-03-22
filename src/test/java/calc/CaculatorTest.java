@@ -42,8 +42,8 @@ public class CaculatorTest {
 		assertEquals(5, calc.add(5,0));
 	}
 	@Test
-	public void testdivByNB() {
-		assertEquals(5, calc.div(5,0));
+	public void testsubByNB() {
+		assertEquals(5, calc.sub(5,0));
 	}
 
 }
